@@ -1,0 +1,9 @@
+data/ids/*
+data/persuasion_dialogue_dataset.csv
+extracting_data/infinity_engine/kotor1/tlk/*
+extracting_data/infinity_engine/kotor1/xml/*
+extracting_data/infinity_engine/kotor2/tlk/*
+extracting_data/infinity_engine/kotor2/xml/*
+extracting_data/infinity_engine/nwn/tlk/*
+extracting_data/infinity_engine/nwn/xml/*
+pyproject.toml
